@@ -9,7 +9,7 @@ assignees: ''
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-*Do not report security bugs over here. Please email at [contact@cosmocloud.io](contact@cosmocloud.io) to report any security issue.*
+*Do not report security bugs over here. Please email at <contact@cosmocloud.io> to report any security issue.*
 
 **To Reproduce**
 Steps to reproduce the behavior:
