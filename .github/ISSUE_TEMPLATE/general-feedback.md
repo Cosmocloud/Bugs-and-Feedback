@@ -1,5 +1,5 @@
 ---
-name: General Feedback
+name: General feedback
 about: Add general feedback for the team
 title: "[Feedback]: <your title>"
 labels: Feedback
