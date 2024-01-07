@@ -10,4 +10,4 @@ assignees: ''
 **Feedback:**
 Add your feedback here...
 
-**Do not report security bugs over here. Please email at <contact@cosmocloud.io> to report any security issue.**
+**Do not report security bugs over here. Please email at <support@cosmocloud.io> to report any security issue.**
