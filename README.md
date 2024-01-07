@@ -1,6 +1,6 @@
 # Bugs-and-Feedback
 Repository to report and submit any technical / logical bugs and feedback to Cosmocloud Team.
-**Please do not open Security bugs here. Reach out on <contact@cosmocloud.io> for that.**
+**Please do not open Security bugs here. Reach out on <support@cosmocloud.io> for that.**
 
 ## Raise a Technical Bug
 1. Open an [issue](https://github.com/CosmoCloud/Bugs-and-Feedback/issues) with `Bug report` template and add all the required information.
@@ -17,4 +17,4 @@ Repository to report and submit any technical / logical bugs and feedback to Cos
 2. Make sure the issue is tagged with a `new feature` label.
 3. Team will reach out to you!
 
-**Please do not open Security bugs here. Reach out on <contact@cosmocloud.io> for that.**
+**Please do not open Security bugs here. Reach out on <support@cosmocloud.io> for that.**
